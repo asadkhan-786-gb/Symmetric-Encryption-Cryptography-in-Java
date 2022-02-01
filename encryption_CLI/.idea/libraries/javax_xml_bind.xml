@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.xml.bind">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Intellij IDE/Appservers/javax.xml.bind.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
